@@ -52,4 +52,4 @@ Or open `notebook.ipynb` to see the full workflow with plots.
 
 ## Author
 
-Pariz || Bushri - AI & Robotics Engineering student, Erbil Polytechnic University
+Pariz || Bushri - AI & Robotics Engineering students, Erbil Polytechnic University
